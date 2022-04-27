@@ -95,4 +95,8 @@ Device Feature Lists (DFL).
    * - PCIE_DEVICE_SID_N6001
      - PCI_VENDOR_ID_INTEL 0x8086
      - 0x1771
+     
+   * - PCIE_DEVICE_SID_D5005
+     - PCI_VENDOR_ID_INTEL 0x8086
+     - 0x138D
 
